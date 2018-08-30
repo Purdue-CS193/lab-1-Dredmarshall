@@ -23,6 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+### Changes
+
+**Hi**, _How are you?_ 'Well', thank you.
+
 [Link](url) and ![Image](src)
 ```
 

@@ -1,3 +1,9 @@
+# David's first CS193 Lab
+
+## List of favorite things about CS 193
+- It's taught by undergrads! It makes me feel much less stupid.
+- I love the lectures because I can see the evolution of students into teachers, i.e., the cheesy jokes, the remembering that they had a cheesy joke but forgot to mention it, etc.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
